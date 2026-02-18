@@ -1,0 +1,4 @@
+- Token bucket algorithm
+- Per-IP limits
+- Daily quota cap
+- Hard LLM invocation limit
