@@ -1,0 +1,8 @@
+{
+  "what_changed": "string",
+  "why_it_matters": "string",
+  "career_relevance": "string",
+  "confidence_score": "float",
+  "sources": ["url"]
+}
+
